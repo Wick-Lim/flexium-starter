@@ -1,0 +1,25 @@
+{
+    "name": "flexium-starter",
+    "version": "0.1.0",
+    "description": "A minimal starter template for Flexium - Fine-grained reactive UI framework",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "flexium": "latest"
+    },
+    "devDependencies": {
+        "vite": "latest"
+    },
+    "keywords": [
+        "flexium",
+        "reactive",
+        "ui",
+        "framework",
+        "vite"
+    ]
+}
